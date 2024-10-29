@@ -1,0 +1,13 @@
+name: predictive_accuracy_var1
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - r-base=4.2
+  - r-tidyverse
+  - r-knitr
+  - r-rmarkdown
+  - r-mass
+  - r-vegan
+  - r-tmvtnorm
+  - r-vars
